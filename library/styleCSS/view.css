@@ -1,0 +1,61 @@
+.a1{
+    /* background-color: rgb(243, 188, 188); */
+    height: 60px;
+    box-shadow: -1px 1px 2px 2px rgb(221, 216, 216);
+    background-color: whitesmoke;
+    position: sticky;
+    top: 0px; 
+}
+.a3{
+  float: right;
+  padding-top: 20px;
+}
+.a2{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+    padding-top: 50px;
+}
+.a2:hover{
+    padding: 10px;
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 6px;
+}
+body{
+    background-color: bisque;
+}
+.cl{
+    width: 800px;
+}
+.clm{
+    
+    display: flex;
+}
+.booktype{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.searchbutton{
+    background-color: rgb(67, 230, 17);
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+}
+.inputts{
+    border-radius: 2px;
+    width: 300px;
+    height: 30px;
+}
+.newbooks{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.searchbutton:hover{
+    opacity: 0.6;
+}
